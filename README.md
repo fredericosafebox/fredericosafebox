@@ -1,8 +1,8 @@
 ### Hello World! 👋
 
-- 😄 I’m Frederico, a passionate front-end developer with big aspirations for my career
-- 🔭 I’m currently looking for my first opportunity to work as a front-end developer
-- 🌱 I’m currently learning MongDB
+- 😄 I’m Frederico, a Full Stack Web and Mobile Developer
+- 🔭 I currently work at 2DLpro building amazing React applications for web and mobile devices
+- 🌱 I’m currently learning Software Architecture and DevOps
 
 ## My stats
 <div align="center">
