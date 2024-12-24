@@ -1,8 +1,8 @@
 ### Hello World! 👋
 
-- 😄 I’m Frederico, a Full Stack Web and Mobile Developer
-- 🔭 I currently work at 2DLpro building amazing React applications for web and mobile devices
-- 🌱 I’m currently learning Software Architecture and DevOps
+- 😄 I am Fred! A Full Stack Developer 👾
+- 🔭 I currently work at Aoop - an NTT DATA company
+- 🌱 I studying to become a Hybrid Mobile Developer Specialist
 
 ## My stats
 <div align="center">
@@ -14,9 +14,6 @@
 <div>
 <a href="https://www.linkedin.com/in/frederico-b-costa/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-</a>
-<a href="https://wa.me/5579999997922" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
 </a>
 </div>
 
